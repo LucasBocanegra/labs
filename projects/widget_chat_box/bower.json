@@ -1,0 +1,26 @@
+{
+  "name": "widget_chat_box",
+  "homepage": "https://github.com/LucasBocanegra/labs",
+  "description": "chat box teste",
+  "main": "index.html",
+  "keywords": [
+    "chat",
+    "box",
+    "widget"
+  ],
+  "authors": [
+    "Lucas Bocanegra"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0"
+  }
+}
